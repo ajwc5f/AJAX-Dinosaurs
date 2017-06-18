@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dinosaurs>
+	<dinosaur>
+		<name>Staurikosaurus</name>
+		<group>Saurischia</group>
+		<diet>Carnivore</diet>
+		<period>Triassic</period>
+	</dinosaur>
+	<dinosaur>
+		<name>Diplodocus</name>
+		<group>Saurischia</group>
+		<diet>Herbivore</diet>
+		<period>Jurassic</period>
+	</dinosaur>
+	<dinosaur>
+		<name>Stegosaurus</name>
+		<group>Ornithischia</group>
+		<diet>Herbivore</diet>
+		<period>Jurassic</period>
+	</dinosaur>
+	<dinosaur>
+		<name>Tyrannosaurus</name>
+		<group>Saurischia</group>
+		<diet>Carnivore</diet>
+		<period>Cretaceous</period>
+	</dinosaur>
+</dinosaurs>
